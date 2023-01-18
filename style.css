@@ -40,7 +40,7 @@ header nav {
   align-items: center;
   justify-content: space-between;
   padding: 1rem 0;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
   max-width: 900px;
   min-width: 300px;
   width: auto;
